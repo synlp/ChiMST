@@ -34,13 +34,12 @@ If you use the ChiMST corpus, please cite [the following paper](http://www.lrec-
 
 ```
 @InProceedings{tian-EtAl:2022:LREC1,
-  author = {Tian, Yuanhe  and  Qin, Han  and  Xia, Fei  and  Song, Yan},
-  title = {ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition},
-  booktitle = {Proceedings of the Language Resources and Evaluation Conference},
-  month = {June},
-  year = {2022},
-  address = {Marseille, France},
-  publisher = {European Language Resources Association},
-  pages = {5654--5664},
+  title = "ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition",
+  author = "Tian, Yuanhe and Qin, Han and Xia, Fei and  Song, Yan",
+  booktitle = "Proceedings of the Language Resources and Evaluation Conference",
+  month = "June",
+  year = "2022",
+  address = "Marseille, France",
+  pages = "5654--5664",
 }
 ```

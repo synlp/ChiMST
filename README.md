@@ -1,6 +1,6 @@
 # ChiMST
 
-This github repository includes the information about the ChiMST Corpus, which is based on our previous work [ChiMed](https://github.com/yuanheTian/ChiMed)
+This github repository includes information about the ChiMST Corpus, which is based on our previous work [ChiMed](https://github.com/yuanheTian/ChiMed)
 
 ## The Copyright
 
@@ -8,7 +8,7 @@ The copyright of the ChiMed and ChiMST corpus belongs to [39ask](http://www.39.n
 
 ## Request the ChiMed and ChiMST Dataset
 
-To request the ChiMed and ChiMST Corpus, please download the contract in this repository ([English](./User_Contract_(English).pdf), [Chinese](./用户使用协议（中文）.pdf)), fill the request form, sign it, and send the request file to `yhtian@uw.edu`. We will send the link to download the corpus to the e-mail address provided in the request form within three business days if the request form meets our requirements.
+To request the ChiMed and ChiMST Corpus, please download the contract in this repository ([English](./User_Contract_(English).pdf), [Chinese](./用户使用协议（中文）.pdf)), fill the request form, sign it, and send the request file to `yhtian@uw.edu`. We will send the link to download the corpus to the e-mail address provided in the request form within **One Week** if the request form meets our requirements.
 
 Please read the following instructions before submitting your request form:
 * If your affiliation is in China, please use the [Chinese version](./用户使用协议（中文）.pdf) of the contract and fill it in Chinese (including the signature).  

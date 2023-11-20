@@ -2,6 +2,10 @@
 
 This github repository includes information about the ChiMST Corpus, which is based on our previous work [ChiMed](https://github.com/yuanheTian/ChiMed)
 
+## 🔥 News 🔥
+
+We recently released a large language model for the Chinese medical domain named ChiMed-GPT, which is trained on ChiMed data. For more information, please visit our [GitHub Repo](https://github.com/synlp/ChiMed-GPT).
+
 ## The Copyright
 
 The copyright of the ChiMed and ChiMST corpus belongs to [39ask](http://www.39.net/). We release the ChiMST corpus based on our contract with 39ask.
